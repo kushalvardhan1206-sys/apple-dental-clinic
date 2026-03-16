@@ -1,0 +1,7 @@
+{
+  "name": "Apple Dental Clinic - Premium Dental Care",
+  "description": "Affordable premium dental care in Secunderabad & Hyderabad. 5-star rated clinic with modern equipment and hygienic standards.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
